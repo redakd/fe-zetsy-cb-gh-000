@@ -26,8 +26,7 @@ p {
 
 h1 {
 	color: rgb(166, 190, 175);
-	min-width: 100%;
-	max-width: 200%;
+	font-size: 5em;
 }
 
 h2 {
