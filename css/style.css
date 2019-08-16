@@ -46,7 +46,7 @@ section {
 
 img, video, audio{
   max-width: 100%;
-	border : 2px solid rgb(166, 190, 175);
+	border : 5px solid rgb(166, 190, 175);
 
 }
 
