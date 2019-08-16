@@ -34,8 +34,9 @@ h1 {
 }
 
 h2 {
-	color: rgb(100, 90, 75)
-}
+	color: #555;
+	font-size: 1em;
+	margin: 0 0 20px 0}
 
 section {
   padding: 10px;
