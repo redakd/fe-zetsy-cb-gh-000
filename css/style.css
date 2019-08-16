@@ -3,11 +3,10 @@
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
-
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+	font-family: 'Times New Roman', serif;
 }
 
 .wrapper {
@@ -18,3 +17,35 @@ body {
 }
 
 /* Write all remaining styles here */
+
+p {
+	font-size: 1em;
+	line-height: 1.5em;
+	font-family: 'Times New Roman', serif;
+}
+
+h1 {
+	color: rgb(166, 190, 175);
+	min-width: 100%;
+	max-width: 200%;
+}
+
+h2 {
+	color: rgb(100, 90, 75)
+}
+
+section {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.bordered {
+	border : 2px solid rgb(166, 190, 175);
+}
+
+
+img, video, audio{
+  max-width: 100%;
+	border : 2px solid rgb(166, 190, 175);
+
+}
